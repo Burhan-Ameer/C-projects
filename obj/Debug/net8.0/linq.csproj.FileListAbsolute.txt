@@ -1,0 +1,14 @@
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\bin\Debug\net8.0\linq.exe
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\bin\Debug\net8.0\linq.deps.json
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\bin\Debug\net8.0\linq.runtimeconfig.json
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\bin\Debug\net8.0\linq.dll
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\bin\Debug\net8.0\linq.pdb
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.AssemblyInfoInputs.cache
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.AssemblyInfo.cs
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.dll
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\refint\linq.dll
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.pdb
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\linq.genruntimeconfig.cache
+C:\Users\burha\OneDrive\Desktop\Projects\C# practices\linq\obj\Debug\net8.0\ref\linq.dll
